@@ -1,7 +1,7 @@
-[![MasterHead](https://imgs.search.brave.com/The99s8rOFfXwpQ1KgwN3aAAG1iFWWDDV4WkAAyJaXQ/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/Q3pkTVc3d25MbjhB/QUFBTS9jb2Rpbmcu/Z2lm.gif)](https://alphapuppey.io)
+[![MasterHead](https://imgs.search.brave.com/The99s8rOFfXwpQ1KgwN3aAAG1iFWWDDV4WkAAyJaXQ/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/Q3pkTVc3d25MbjhB/QUFBTS9jb2Rpbmcu/Z2lm.gif)
 <h1 align="center">Hi 👋, I'm Joshua loui Soqueno</h1>
 <h3 align="center">Alphapuppey2</h3>
-<img alt="Coding" src="https://imgs.search.brave.com/uGBeRwzhbiOphYDvGkQnCQYYApKyDw1OrDHAZ44cF9Y/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtbWFuLWNvbXB1/dGVyLWNvZGluZy1u/YWU2bWVjMzc4bHNn/MWkzLmdpZg.gif" />
+<img align="right" alt="Coding" src="https://imgs.search.brave.com/uGBeRwzhbiOphYDvGkQnCQYYApKyDw1OrDHAZ44cF9Y/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtbWFuLWNvbXB1/dGVyLWNvZGluZy1u/YWU2bWVjMzc4bHNn/MWkzLmdpZg.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alphapuppey2&label=Profile%20views&color=0e75b6&style=flat" alt="alphapuppey2" /> </p>
 
