@@ -26,3 +26,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alphapuppey2&show_icons=true&locale=en" alt="alphapuppey2" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alphapuppey2&" alt="alphapuppey2" /></p>
+
+<a href="https://app.daily.dev/joshualouisoqueno"><img src="https://api.daily.dev/devcards/v2/dCc1I6jAaeAZLT7ETuAnH.png?type=default&r=4f3" width="356" alt="Joshua Loui Soqueno's Dev Card"/></a>
